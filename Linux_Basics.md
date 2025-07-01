@@ -185,7 +185,7 @@ sudo tcpdump -i eth0
 
 ## TASKS
 
-Get back to overthewire and complete exercises 14-20! (I know you need to complete 9-13 before you get the password to get here, but greatness has newer been without a cost!
+Get back to overthewire and complete exercises 14-20! (I know you need to complete 9-13 before you get the password to get here, but greatness has never been without a cost!
 
 # ⚠️ _Reminder: Always get permission before scanning or sniffing any network. Stick to school labs, virtual machines, or your own LAN._
 
