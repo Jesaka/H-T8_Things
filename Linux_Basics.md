@@ -2,8 +2,7 @@
 
 ## Core Commands
 Hey newbie! Here is a list of which will get you started with mastering your Linux! I know it might look bit intimidating, but best way to learn is to try them out!
-So open up your Linux terminal and get to it, go through the commands and see what they do! If this stil feel super scary pwn.college has a fun way to make learning Linux commands a game of very basic hacking exercises!
-https://pwn.college/linux-luminarium/
+So open up your Linux terminal and get to it, go through the commands and see what they do! H-T8 also gives you couple of tasks to do in this manual after you studied a bit
 
 | Command       | Description                                | Example Usage                                   |
 |---------------|--------------------------------------------|-------------------------------------------------|
@@ -33,6 +32,21 @@ https://pwn.college/linux-luminarium/
 | `whoami`      | Show your current username                 | `whoami`                                        |
 | `top`         | Real-time system resource usage            | `top`                                           |
 | `ps`          | Show running processes                     | `ps aux | grep firefox`                         `
+
+## TASKS
+
+Here you get to put what you learned to the test, and well actually start learning. Skills is not just reading and remembering. It´s also failing and finding out!
+
+# Head to this website! 
+
+https://overthewire.org/wargames/bandit/bandit0.html
+
+Complete tasks 0-8. After you completed these you will see significant improvement on understanding The Penguins secrets!
+
+## Yay good job you!
+
+Bonus task: Make a writeup (A sheet where you explain what you did step by step, so It can be repeated by someone else later)
+Pssst!!! This is why hackers actually get paid, nobody cares that you cracked a computer, customers and your boss wants to see how and why!!!
 
 # 🌐 Beginner-Friendly Networking Tools for Linux
 
@@ -167,6 +181,10 @@ sudo tcpdump -i eth0
 ```
 
 ---
+
+## TASKS
+
+Get back to overthewire and complete exercises 14-20! (I know you need to complete 9-13 before you get the password to get here, but greatness has newer been without a cost!
 
 # ⚠️ _Reminder: Always get permission before scanning or sniffing any network. Stick to school labs, virtual machines, or your own LAN._
 
