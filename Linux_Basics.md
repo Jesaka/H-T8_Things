@@ -37,13 +37,13 @@ So open up your Linux terminal and get to it, go through the commands and see wh
 
 Here you get to put what you learned to the test, and well actually start learning. Skills is not just reading and remembering. It´s also failing and finding out!
 
-# Head to this website! 
+### Head to this website! 
 
 https://overthewire.org/wargames/bandit/bandit0.html
 
 Complete tasks 0-8. After you completed these you will see significant improvement on understanding The Penguins secrets!
 
-## Yay good job you!
+### Yay good job you!
 
 Bonus task: Make a writeup (A sheet where you explain what you did step by step, so It can be repeated by someone else later)
 Pssst!!! This is why hackers actually get paid, nobody cares that you cracked a computer, customers and your boss wants to see how and why!!!
