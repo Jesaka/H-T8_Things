@@ -45,10 +45,6 @@ Complete tasks 0-8. After you completed these you will see significant improveme
 
 ### Yay good job you!
 
-Bonus task: Make a writeup (A sheet where you explain what you did step by step, so it can be repeated by someone else later)
-
-Pssst!!! This is why hackers actually get paid, nobody cares that you cracked a computer, customers and your boss want to see how and why!!!
-
 # 🌐 Beginner-Friendly Networking Tools for Linux
 
 This section introduces you to common command-line tools to check and explore networks. No experience needed—just curiosity!
