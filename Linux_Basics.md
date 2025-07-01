@@ -47,7 +47,7 @@ Complete tasks 0-8. After you completed these you will see significant improveme
 
 Bonus task: Make a writeup (A sheet where you explain what you did step by step, so it can be repeated by someone else later)
 
-Pssst!!! This is why hackers actually get paid, nobody cares that you cracked a computer, customers and your boss wants to see how and why!!!
+Pssst!!! This is why hackers actually get paid, nobody cares that you cracked a computer, customers and your boss want to see how and why!!!
 
 # 🌐 Beginner-Friendly Networking Tools for Linux
 
