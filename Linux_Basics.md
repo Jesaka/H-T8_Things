@@ -168,5 +168,5 @@ sudo tcpdump -i eth0
 
 ---
 
-⚠️ _Reminder: Always get permission before scanning or sniffing any network. Stick to school labs, virtual machines, or your own LAN._
+# ⚠️ _Reminder: Always get permission before scanning or sniffing any network. Stick to school labs, virtual machines, or your own LAN._
 
